@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Ular Tangga IPAS SD",
+  "description": "Game edukasi interaktif ular tangga IPAS (Ilmu Pengetahuan Alam & Sosial) tingkat SD dengan mode Solo vs Bot dan Multiplayer lokal, animasi 3D, kuis interaktif 15 & 30 soal, efek musik, serta ekspor otomatis ke Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
